@@ -4,20 +4,19 @@ This repository contains a portfolio of my technical writing samples from previo
 
 ## Documentation Types
 
-My technical writing samples are categorized into the following documentation types:
+My technical writing samples are grouped in the following folders:
 
-- Explainers
-- How-tos
-- Quick start guides
-- Reference guides
-- Tutorials
+- Computer-Based Tutorials
+- Online Help
+- User Guides
+- White Papers, Troubleshooting, Miscellaneous
 
-## My writing samples
+## Writing Samples
 
 | Document | Documentation type | Description |
 | ------------- | ------------------ | ----------- |
-| [What You Need to Know About QR Codes](https://github.com/heykayla/my-writing/blob/main/explainers/explanation-what-you-need-to-know-about-qr-codes.md) | Explanation | Provides a breakdown of QR codes and what they do. The audience for this document is nonspecialists who do not have an understanding of QR codes. To create this document, I used the [Good Docs Project's](https://github.com/thegooddocsproject/templates/tree/dev/explanation) explanation template.|
-| [How to Create and Push Files to a Remote Repository](https://github.com/heykayla/my-writing/blob/main/how-tos/how-to-create-and-push-files-to-a-remote-repo-tutorial.md) | How-to | Provides steps for creating files from your local computer and uploading them to your remote GitHub repository. The audience for this document is intermedia to expert users who need a quick rundown. I followed some of the concepts for writing procedures and documenting code syntax from Google's developer documentation style guide. To create this document, I used [The Good Docs Project's](https://github.com/thegooddocsproject/templates/tree/dev/how-to) how-to template. |
+| [Computer-Based Tutorial Mockup](Computer-Based Tutorials/MelyssaDehart_computerbasedtutorialmockup_MicrosoftPowerPoint.pdf) | Computer-Based Tutorials | Mockup created in Microsoft PowerPoint as part of a proposed change to an existing computer-based tutorial (CBT). The original CBT combined all workflow steps in one module, resulting in a lengthy experience for the user. My proposal subdivided the course into smaller, individual modules for each workflow step that allowed the user to learn at their own pace and better digest and retain the information. If approved, the module would have been created in Articulate 360 to provide a more interactive experience for the user.|
+| [Computer-Based Tutorials/MelyssaDehart_computerbasedtutorialscript_MicrosoftWord.pdf](https://github.com/melyssadehart/Melyssa-Dehart-Writing-Sample-Portfolio/blob/5e22aea915c6fd08aa6c54d8e524d8e3b710b53c/Computer-Based%20Tutorials/MelyssaDehart_computerbasedtutorialscript_MicrosoftWord.pdf)) | How-to | Provides steps for creating files from your local computer and uploading them to your remote GitHub repository. The audience for this document is intermedia to expert users who need a quick rundown. I followed some of the concepts for writing procedures and documenting code syntax from Google's developer documentation style guide. To create this document, I used [The Good Docs Project's](https://github.com/thegooddocsproject/templates/tree/dev/how-to) how-to template. |
 | [DEV User Interface Components](https://github.com/heykayla/my-writing/blob/main/references/reference-dev-ui-components.md) | Reference | Describes the user interface (UI) elements of the DEV website homepage, a social media platform for software developers. The audience for this document is DEV community members new to using the DEV website. To create this document, I used the [The Good Docs Project's](https://github.com/thegooddocsproject/templates/tree/dev/reference) reference template.|
 | [Git Commands](https://github.com/heykayla/my-writing/blob/main/references/reference-git-commands.md) | Reference | Lists and describes common Git commands. The audience for this document is nonspecialists who need a reference guide for finding basic Git commands. |
 | [Clone a GitHub Repository with GitHub Desktop](https://github.com/heykayla/my-writing/blob/main/tutorials/tutorial-clone-a-github-repo-with-github-desktop.md) | Tutorial | Provides instructions for cloning a remote repository to your local computer with GitHub Desktop. The audience for this document is nonspecialists who want to learn how to clone a remote repository with GitHub Desktop without using the command line. |
