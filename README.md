@@ -1,8 +1,8 @@
-# About the My Writing Repo
+# About the Writing Sample Portfolio
 
-This repository contains a collection of my writing, primarily consisting of pieces from Git and GitHub workshops, as well as my personal experiences utilizing these platforms.
+This repository contains a portfolio of my technical writing samples from previous employers.
 
-## Documentation types
+## Documentation Types
 
 My technical writing samples are categorized into the following documentation types:
 
